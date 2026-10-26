@@ -1,0 +1,8 @@
+build/
+__pycache__/
+*.pyc
+node_modules/
+*.exe
+*.o
+.vscode/
+.DS_Store
